@@ -1,0 +1,30 @@
+funcionalidad general:
+-conversion y entrada teclado
+-funcion
+-operaciones sobre listas
+-recorrer listas
+-if de una linea
+-ordenar lista
+-copiar lista y juntar
+-tupla
+-conjunto
+-diccionario
+-elif
+-if de una linea otro
+-while con break y continue
+-for
+-diferentes argumentos funciones
+-conversiones
+-operaciones strings
+-imrpimir otra forma
+-try except
+-type error
+-lista coger con :
+
+funcionalidad mas especifica:
+-funcion
+-datetime
+-funciones matematicas
+-json
+-expresiones regulares
+
